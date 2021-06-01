@@ -8,7 +8,7 @@ This is the Matlab implemention of the ADI for 2d heat equaiton.
 
 The main implementation is under the file ADI2.m
 
-In order to show the error log-log and tables, you also need to download the files related to "error", which are from Randy LeVeque's website. The correspoding textbook is called "Finite Difference Methods for Ordinary and Partial Differential Equations".
+In order to show the error log-log plots and tables, you also need to download the files related to "error", which are orignally from Randy LeVeque's website. The correspoding textbook is called "Finite Difference Methods for Ordinary and Partial Differential Equations".
 
 http://faculty.washington.edu/rjl/
 
@@ -18,8 +18,8 @@ The methematical derivation is in the .pdf file. The stability analysis for this
 
 https://people.maths.ox.ac.uk/trefethen/4all.pdf.
 
-## Fun Fact about Trefethen 
+## Fun Facts about Trefethen 
 
-He came up with BMI formula!!! He also published paper with his wife!!!
+He came up with BMI formula in 2013! He also published paper with his first wife Anna!
 
 Google Trefethen for more information!
