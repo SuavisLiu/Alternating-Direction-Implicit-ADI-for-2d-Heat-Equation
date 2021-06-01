@@ -2,7 +2,7 @@
 
 ## Introduction 
 
-This is the final project in Numerical Methods II taught by Leslie Greengard (very smart guy) in 2021 Spring.
+This is the final project in Numerical Methods II taught by Leslie Greengard (very smart guy) in 2021 Spring at NYU.
 
 This is the Matlab implemention of the ADI for 2d heat equaiton. 
 
