@@ -17,3 +17,5 @@ https://people.maths.ox.ac.uk/trefethen/4all.pdf.
 ## Fun Fact about Trefethen 
 
 He came up with BMI formula!!! He also published paper with his wife!!!
+
+Google Trefethen for more information!
