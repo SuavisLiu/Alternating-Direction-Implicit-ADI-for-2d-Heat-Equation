@@ -2,6 +2,8 @@
 
 ## Introduction 
 
+This is the final project in Numerical Methods II taught by Lesile Greengard in 2021 Spring.
+
 This is the Matlab implemention of the ADI for 2d heat equaiton. 
 
 The main implementation is under the file ADI2.m
