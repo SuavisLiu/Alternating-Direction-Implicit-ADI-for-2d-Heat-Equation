@@ -14,4 +14,6 @@ The methematical derivation is in the .pdf file. The stability analysis for this
 
 https://people.maths.ox.ac.uk/trefethen/4all.pdf.
 
-## Fun Fact about Trefethen is that he came up with BMI formula!!!
+## Fun Fact about Trefethen 
+
+He came up with BMI formula!!! He also publishs paper with his wife!!!
